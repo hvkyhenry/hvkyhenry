@@ -32,32 +32,32 @@ I am a Software Engineering student and systems enthusiast passionate about netw
   <tr>
     <td valign="top" width="50%">
       <strong>⚙️ Languages & Core Scripting</strong><br />
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-      <img src="https://shields.io" /><br />
-      <img src="https://shields.io" />
+      <img src="https://shields.io" alt="Python" />
+      <img src="https://shields.io" alt="Java" />
+      <img src="https://shields.io" alt="Bash" />
+      <img src="https://shields.io" alt="SQL" /><br />
+      <img src="https://shields.io" alt="JavaScript" />
       <br /><br />
       <strong>🏗️ Frameworks & Runtimes</strong><br />
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
+      <img src="https://shields.io" alt="Spring" />
+      <img src="https://shields.io" alt="Django" />
+      <img src="https://shields.io" alt="Nginx" />
     </td>
     <td valign="top" width="50%">
       <strong>🗄️ Data Infrastructure & Analytics</strong><br />
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-      <img src="https://shields.io" /><br />
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
+      <img src="https://shields.io" alt="PostgreSQL" />
+      <img src="https://shields.io" alt="MySQL" />
+      <img src="https://shields.io" alt="Supabase" /><br />
+      <img src="https://shields.io" alt="pandas" />
+      <img src="https://shields.io" alt="NumPy" />
       <br /><br />
       <strong>☁️ Cloud, DevOps & Environments</strong><br />
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-      <img src="https://shields.io" /><br />
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
+      <img src="https://shields.io" alt="Linux" />
+      <img src="https://shields.io" alt="Azure" />
+      <img src="https://shields.io" alt="Terraform" /><br />
+      <img src="https://shields.io" alt="Ansible" />
+      <img src="https://shields.io" alt="Vim" />
+      <img src="https://shields.io" alt="Git" />
     </td>
   </tr>
 </table>
@@ -67,12 +67,12 @@ I am a Software Engineering student and systems enthusiast passionate about netw
 ### 📊 Performance Metrics
 
 <p align="center">
-  <img height="165" src="https://vercel.app" alt="stats" />
-  <img height="165" src="https://vercel.app" alt="top langs" />
+  <img height="165" src="https://vercel.app" alt="Henry's GitHub Stats" />
+  <img height="165" src="https://vercel.app" alt="Henry's Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" />
+  <img src="https://demolab.com" alt="GitHub Contribution Streak" />
 </p>
 
 ---
@@ -80,10 +80,10 @@ I am a Software Engineering student and systems enthusiast passionate about netw
 ### 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" /></a>
-  <a href="https://x.com" target="_blank"><img src="https://shields.io" /></a>
-  <a href="https://dev.to" target="_blank"><img src="https://shields.io" /></a>
-  <a href="mailto:henrymaingi05@gmail.com" target="_blank"><img src="https://shields.io" /></a>
+  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn" /></a>
+  <a href="https://x.com" target="_blank"><img src="https://shields.io" alt="X" /></a>
+  <a href="https://dev.to" target="_blank"><img src="https://shields.io" alt="Dev.to" /></a>
+  <a href="mailto:henrymaingi05@gmail.com" target="_blank"><img src="https://shields.io" alt="Email" /></a>
 </p>
 
 <p align="center"><i>⭐️ System infrastructure maintained by <a href="https://github.com">hvkyhenry</a></i></p>
