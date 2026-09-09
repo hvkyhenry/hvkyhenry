@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=640&height=44&lines=I%20am%20a%20platform%20and%20data%20engineer;I'm%20passionate%20about%20Systems%20Engineering" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=640&height=44&lines=I%20am%20a%20Backend%20and%20Platform%20engineer;I'm%20passionate%20about%20Systems%20Engineering" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
