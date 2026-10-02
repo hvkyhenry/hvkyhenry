@@ -10,10 +10,10 @@
 
 ### 🚀 About Me
 
-I am a Software Engineering student and systems entusiast passionate about networking, cloud infrastuctuire, cybersecurity and AI. I enjoy understanding how systems work beneath the surface - from Linux and networking protocols to backend architectures amd secure AI applications. My goal is to build resilient, scalable systems while continuously learning through projects, labs and open source contributions.
+I am a Software Engineering student and systems enthusiast passionate about networking, cloud infrastuctuire, cybersecurity and AI. I enjoy understanding how systems work beneath the surface - from Linux and networking protocols to backend architectures amd secure AI applications. My goal is to build resilient, scalable systems while continuously learning through projects, labs and open source contributions.
 
 🔭 &nbsp;I'm currently working on **Linux &amp; Networking Labs, Enterprise AI Security Lab, Backend Systems with Spring Boot**  
-🌱 &nbsp;I'm currently learning **Cloud and Virtualization, Networking HCIA-Datacom, Sytem Design, Java**  
+🌱 &nbsp;I'm currently learning **Cloud and Virtualization, Networking HCIA-Datacom, System Design, Java**  
 👯 &nbsp;I'm looking to collaborate on **backend infrastructure, system design and robust software development**  
 💬 &nbsp;Ask me about **Bash Scripting, VM, Python, Networking, Backend**  
 ⚡ &nbsp;Fun fact: **I enjoy hiking and nature**
