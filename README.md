@@ -22,10 +22,10 @@ I am a Software Engineer passionate about cloud-native applications. I enjoy und
 
 #### ☁️ Cloud & Infrastructure
 <p align="left">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
 </p>
 
 #### ⚙️ Backend & Databases
@@ -77,10 +77,10 @@ I am a Software Engineer passionate about cloud-native applications. I enjoy und
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=hvkyhenry&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### 📈 Contribution Graph
+### 🔥 GitHub Streak
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hvkyhenry&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img src="https://readme-streak-stats.herokuapp.com/?user=hvkyhenry&theme=tokyonight&hide_border=true&fire=2ea043&side_bg=00000000&background=00000000" alt="GitHub Streak" />
 </p>
 
 ### 💭 Dev Quote
