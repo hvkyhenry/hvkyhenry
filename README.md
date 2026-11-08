@@ -12,7 +12,7 @@
 
 I am a Software Engineer passionate about cloud-native applications. I enjoy understanding how systems work beneath the surface - from Linux and networking protocols to backend architectures amd secure AI applications. My goal is to build resilient, scalable systems while continuously learning through projects, labs and open source contributions.
 
-🔭 &nbsp;I'm currently working on **Linux &amp; Networking Labs, Enterprise AI Security Lab, Backend Systems with Spring Boot**  
+🔭 &nbsp;I'm currently working on **Linux , AWS Cloud-native applications, Backend Systems with Spring Boot**  
 🌱 &nbsp;I'm currently learning **Cloud and Virtualization, System Design, Java**  
 👯 &nbsp;I'm looking to collaborate on **backend infrastructure, system design and robust software development**  
 💬 &nbsp;Ask me about **Bash Scripting, VM, Python, Networking, Backend**  
@@ -77,11 +77,6 @@ I am a Software Engineer passionate about cloud-native applications. I enjoy und
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=hvkyhenry&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://readme-streak-stats.herokuapp.com/?user=hvkyhenry&theme=tokyonight&hide_border=true&fire=2ea043&side_bg=00000000&background=00000000" alt="GitHub Streak" />
-</p>
 
 ### 💭 Dev Quote
 
