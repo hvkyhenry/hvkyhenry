@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-I am a Software Engineer passionate about cloud-native applications. I enjoy understanding how systems work beneath the surface - from Linux and networking protocols to backend architectures amd secure AI applications. My goal is to build resilient, scalable systems while continuously learning through projects, labs and open source contributions.
+I am a Software Engineer passionate about cloud-native applications. I enjoy understanding how systems work beneath the surface - from Linux and networking protocols to backend architectures and secure AI applications. My goal is to build resilient, scalable systems while continuously learning through projects, labs and open source contributions.
 
 🔭 &nbsp;I'm currently working on **Linux , AWS Cloud-native applications, Backend Systems with Spring Boot**  
 🌱 &nbsp;I'm currently learning **Cloud and Virtualization, System Design, Java**  
